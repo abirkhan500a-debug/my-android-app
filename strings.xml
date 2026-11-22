@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Smart Dokan</string>
+    <string name="brand_title">Smart Dokan POS</string>
+    <string name="nav_pos">বিক্রি ও পণ্য</string>
+    <string name="nav_dashboard">আয়-ব্যয় ও লাভ</string>
+    <string name="nav_shortlist">শর্ট লিস্ট</string>
+    <string name="action_add_product">নতুন পণ্য</string>
+    <string name="action_backup">ড্রাইভ ব্যাকআপ</string>
+    <string name="action_theme">থিম স্টুডিও</string>
+    <string name="search_hint">পণ্য খুঁজুন (নাম, গ্রুপ/জেনেরিক, কোম্পানি বা বক্স/তাক নং)...</string>
+    <string name="sold_button">বিক্রি হয়েছে</string>
+</resources>
